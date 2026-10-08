@@ -17,6 +17,7 @@
 		STATKEY_INT = -1,
 		STATKEY_PER = -1
 	)
+	maximum_possible_slots = 1 // as a part of the 'wretches may as well be hero units' PR. this is an evil ass grapplebeast. unique gimmick? no, but unique in power.
 	subclass_skills = list(
 		/datum/skill/combat/maces = SKILL_LEVEL_JOURNEYMAN,
 		/datum/skill/combat/swords = SKILL_LEVEL_JOURNEYMAN,
